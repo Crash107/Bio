@@ -15,7 +15,7 @@
 -  Email: bmm49@njit.edu
 -  LinkedIn: https://www.linkedin.com/in/brian-maina25/
 
-###⚡Fun fact: I liked to read non-fiction books
+
 
 <!---
 Crash107/Crash107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
